@@ -18,4 +18,4 @@ Some familiarity with R will be very useful. Some participants may request to wo
 
 ### About Me
 
-I’m a second year PhD student in geography with an NSF IGERT traineeship in network science. Although my degrees are in public health and infectious disease, most of my work is interdisciplinary and focused on incorporating computational techniques in global health research. You can read more about my research [here](https://www.vawang.com).
+I’m a second year PhD student in geography with an NSF IGERT traineeship in network science. Although my degrees are in public health and infectious disease, most of my work is interdisciplinary and focused on incorporating computational techniques in global health research. You can read more about my research [here](https://www.vaniaw.com).
