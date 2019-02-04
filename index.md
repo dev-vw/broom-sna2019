@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## A Crash Tutorial on Social Network Analysis in R
 
-You can use the [editor on GitHub](https://github.com/dev-vw/broom-sna2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This two-hour tutorial is intended for researchers interested in using R to perform analyses on networked data. Social network analysis is used in a variety of disciplines, from sociology to epidemiology.  Given the increasing popularity of using R to analyze social science data, the number of user-created packages have similarly increased. The decision of which analytical technique to use or which package to install is a non-trivial decision, and can be bewildering to a nascent researcher (I’m definitely still learning myself!). Within the context of relational data science, this tutorial is intended to dispel some of these confusions and provide resources for researchers who work with social networks. This tutorial will be divided into four main sections:
 
-### Markdown
+1. We will start the tutorial by going through some graph theory basics, enough to lay the foundation for understanding and manipulating networked data. 
+2. Then, using toy network data, we will learn to turn this dataset into relational data structures in R, and explore functions that can calculate network measures.
+3. Finally, we will end by discussing other useful ways to use R in social network analysis, including respondent driven sampling to population size estimation techniques.
+4. After the tutorial, I will be happy to answer individual questions regarding your own research and data idiosyncrasies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prior Preparation
 
-```markdown
-Syntax highlighted code block
+Some familiarity with R will be very useful. Some participants may request to work with their own data during the tutorial. I’m going to kindly suggest that we stick with the toy datasets, simply because addressing issues with data formatting can be a major drain on time. However, I am happy to take questions after the tutorial to address specific analytic questions. So do bring your datasets for the Q and A session after the tutorial!
 
-# Header 1
-## Header 2
-### Header 3
+### Software Requirements
+Please check back a week before the tutorial for download links for software, slide decks, exercise materials, and datasets.
 
-- Bulleted
-- List
+### About Me
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dev-vw/broom-sna2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I’m a second year PhD student in geography with an NSF IGERT traineeship in network science. Although my degrees are in public health and infectious disease, most of my work is interdisciplinary and focused on incorporating computational techniques in global health research. You can read more about my research [here](www.vawang.com).
