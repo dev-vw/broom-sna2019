@@ -13,8 +13,17 @@ This two-hour tutorial is intended for researchers interested in using R to perf
 
 Some familiarity with R will be very useful. Some participants may request to work with their own data during the tutorial. I’m going to kindly suggest that we stick with the toy datasets, simply because addressing issues with data formatting can be a major drain on time. However, I am happy to take questions after the tutorial to address specific analytic questions. So do bring your datasets for the Q and A session after the tutorial!
 
-### Software Requirements
-**Please check back a week before the tutorial for download links to software, slide decks, exercise materials, and datasets.**
+### Software Requirements and Data Downloads
+
+#### R downloads
++ R: 
++ R studio:
+
+#### Required datasets
++ We will be using a dataset representing connections between Google+ users. Please download the dataset here:
+
+#### Slide decks and Exercises
+**Please check back on Sunday (6/9) to download slide decks and exercise materials.**
 
 ### About Me
 
