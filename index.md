@@ -19,6 +19,8 @@ Some familiarity with R will be very useful. Some participants may request to wo
 + R: 
 + R studio:
 
+#### Install R packages
+
 #### Required datasets
 + We will be using a dataset representing connections between Google+ users. Please download the dataset here:
 
