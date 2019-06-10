@@ -27,7 +27,7 @@ divided into four main sections:
 4. After the tutorial, I will be happy to answer individual questions
    regarding your own research and data idiosyncrasies.g
 
-### Prior Preparation
+### Prior preparation
 
 Some familiarity with R will be very useful. Some participants may
 request to work with their own data during the tutorial. I’m going to
@@ -37,7 +37,7 @@ time. However, I am happy to take questions after the tutorial to
 address specific analytic questions. So do bring your datasets for the
 Q and A session after the tutorial!
 
-### Software Requirements and Data Downloads
+### Software requirements and data downloads
 Please make sure to have the following software requirements, class
 materials, and datasets ready before class begins on Monday.
 
@@ -63,7 +63,11 @@ install.packages(c("statnet", "network", "GGally"))
 + [Exercise 1 materials](./scripts/1_ex1.zip)
 + [Exercise 2 materials](./scripts/2_ex2.zip)
 
-### About Me
+### Post-workshop evaluation
+Please take a couple minutes to take the post-workshop evaluation
+[here](https://forms.gle/GyxoJ9rP4UTujGmt7).
+
+### About me
 
 I’m a second year PhD student in geography with an NSF IGERT
 traineeship in network science. Although my degrees are in public
