@@ -55,7 +55,7 @@ for most users.
 Please install the `sna`, `network`, and `GGally` package. 
 
 ```R
-install.packages(c("statnet", "network", "GGally"))
+install.packages(c("sna", "network", "GGally"))
 ```
 
 #### Slide decks and exercise materials
