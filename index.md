@@ -58,12 +58,10 @@ Please install the `sna`, `network`, and `GGally` package.
 install.packages(c("statnet", "network", "GGally"))
 ```
 
-#### Required datasets
-Click here to download the workshop datasets.
-
-#### Slide decks and exercise `R` scripts
-+ [Click here for the slides](./slides/sna_slides.pdf).
-+ [The R scripts can be downloaded here]().
+#### Slide decks and exercise materials
++ [Click here for the slides](./slides/sna_slides.pdf)
++ [Exercise 1 materials](./scripts/1_ex1.zip)
++ [Exercise 2 materials](./scripts/2_ex2.zip)
 
 ### About Me
 
