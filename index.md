@@ -61,8 +61,9 @@ install.packages(c("statnet", "network", "GGally"))
 #### Required datasets
 Click here to download the workshop datasets.
 
-#### Slide decks and exercise =R= scripts
-
+#### Slide decks and exercise `R` scripts
++ [Click here for the slides]().
++ [The R scripts can be downloaded here]().
 
 ### About Me
 
